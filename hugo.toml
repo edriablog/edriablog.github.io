@@ -1,0 +1,64 @@
+baseURL = 'https://edriablog.github.io/'
+languageCode = 'en-us'
+title = 'Edria'
+theme = 'Typo'
+
+# Disable tags, actually, they are rendered as a list, but the idea is to disable them.
+disableKinds = ['taxonomy']
+
+# Google analytics code
+googleAnalytics = "G-xxxxxxxxxx"
+
+[params]
+math = true
+# Appearance
+theme = 'auto'
+
+# Intro on main page, content in markdown, if you omit title or content the other can be displayed
+# homeIntroTitle = 'Hello traveler!'
+# homeIntroContent = """
+# Join me on this journey as I explore the ever-evolving landscape of software engineering, 
+# fueled by curiosity and a relentless drive to innovate. 
+# Together, let's push the boundaries of what's possible and craft solutions that shape the future.
+# """
+
+# Collection to display on home page: 
+# in this case we would display content/posts pages
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Pagination size across all website, this is the same for homepage and single list page
+paginationSize = 100
+
+# Social icons
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/yijueli"
+
+# [[params.social]]
+# name = "medium"
+# url = "https://medium.com/@your-name"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/edriablog"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "resume"
+url = "/resume"
+
+# Syntax highlight on code blocks, all styles: 
+# https://xyproto.github.io/splash/docs/all.html
+# I suggest algol
+[markup]
+[markup.highlight]
+style = 'algol'

@@ -1,7 +1,7 @@
 baseURL = 'https://edriablog.github.io/'
 languageCode = 'en-us'
 title = 'Edria'
-theme = 'Typo'
+theme = 'typo'
 
 # Disable tags, actually, they are rendered as a list, but the idea is to disable them.
 disableKinds = ['taxonomy']

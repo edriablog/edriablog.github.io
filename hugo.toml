@@ -1,6 +1,6 @@
 baseURL = 'https://edriablog.github.io/'
 languageCode = 'en-us'
-title = 'Edria'
+title = 'Yijue (Edria) Li'
 theme = 'typo'
 
 # Disable tags, actually, they are rendered as a list, but the idea is to disable them.

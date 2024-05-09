@@ -30,10 +30,10 @@ showtoc: false
 
 
 ## Certificates
-Coursera Machine Learning Specialization
+**Coursera Machine Learning Specialization**
 - 3 Certificates in: Supervised Learning; Advanced Learning; Unsupervised Learning
 
-Coursera Deep Learning Specialization
+**Coursera Deep Learning Specialization**
 - 5 Certificates in: Neural Networks and Deep Learning; Hyperparameters tuning, Regularization and Optimization; Structuring Machine Learning Project; Convolutional Neural Networks; Natural Language Processing
 
 ## Technical Background

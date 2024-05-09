@@ -15,17 +15,22 @@ math = true
 theme = 'auto'
 
 # Intro on main page, content in markdown, if you omit title or content the other can be displayed
-# homeIntroTitle = 'Hello traveler!'
-# homeIntroContent = """
-# Join me on this journey as I explore the ever-evolving landscape of software engineering, 
-# fueled by curiosity and a relentless drive to innovate. 
-# Together, let's push the boundaries of what's possible and craft solutions that shape the future.
-# """
+homeIntroTitle = 'Welcome to my page!'
+homeIntroContent = """
+I have started my journey of data science and machine learning since 2022, when after several years of legal practice I went back to school at University of Washington and joined the Department of Applied Mathematics in pursuing my Applied and Computational Mathematics master degree (check out my [resume here](resume)!). 
+
+I have learned a lot! Changing gear is difficult, but with passion you thrive and survive!
+
+Join me on this journey as I continue to learn in the realm of applied mathematics, data analysis, machine learning, deep neural networks, computer vision, natural language processing and more! Let me know your thoughts and connect with me on LinkedIn or email me at edriali@outlook.com. 
+
+Together, let's push the boundaries of what's possible and craft solutions that shape the future.
+"""
 
 # Collection to display on home page: 
 # in this case we would display content/posts pages
 homeCollectionTitle = 'Posts'
 homeCollection = 'posts'
+
 
 # Pagination size across all website, this is the same for homepage and single list page
 paginationSize = 100
@@ -47,14 +52,14 @@ url = "https://github.com/edriablog"
 [[params.menu]]
 name = "home"
 url = "/"
-
+[[params.menu]]
+name = "resume"
+url = "/resume"
 [[params.menu]]
 name = "posts"
 url = "/posts"
 
-[[params.menu]]
-name = "resume"
-url = "/resume"
+
 
 # Syntax highlight on code blocks, all styles: 
 # https://xyproto.github.io/splash/docs/all.html

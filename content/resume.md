@@ -13,6 +13,7 @@ showtoc: false
 {{< collapse summary="**High-Performance Image Processing Application on Manycore Architecture**" >}}
 - Implemented Gaussian Blur algorithm for host and device code on Hammerblade Manycore Architecture (128 cores with L1/L2 cache and sharable DRAM, 2D mesh/ruche and wormhole NoC);
 - Optimized the algorithm using Memory Level Parallelism and cache locality, achieving 69.4% total core utilization in Verilator simulation with 10x speedup.
+- **Report**: [High-Performance Image Processing Application Implementation and Optimization on HammerBlade Manycore Architecture](Yijue_WritingSample.pdf)
 {{< /collapse >}}
 
 {{< collapse summary="**Machine Learning and Neural Network for MNIST and FashionMNIST Dataset**" >}}

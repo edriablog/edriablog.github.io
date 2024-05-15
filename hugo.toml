@@ -17,7 +17,7 @@ theme = 'auto'
 # Intro on main page, content in markdown, if you omit title or content the other can be displayed
 homeIntroTitle = 'Welcome to my page!'
 homeIntroContent = """
-I have started my journey of data science and machine learning since 2022, when after several years of legal practice I went back to school at University of Washington and joined the Department of Applied Mathematics in pursuing my Applied and Computational Mathematics master degree (check out my [resume here](resume)!). 
+I have started my journey of data science and machine learning since 2022, when after several years of legal practice I went back to school at University of Washington and joined the Department of Applied Mathematics in pursuing my Applied and Computational Mathematics master degree (check out my [**resume**](resume)!). 
 
 I have learned a lot! Changing gear is difficult, but with passion you thrive and survive!
 

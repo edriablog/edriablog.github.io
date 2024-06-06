@@ -1,6 +1,6 @@
 +++
 title = 'Notes on AI for Medical Diagnosis'
-date = 2024-06-05T16:37:31-07:00
+date = 2024-05-27T16:37:31-07:00
 draft = false
 +++
 >This note is generated for my learning of Course AI for Medical Diagnosis by deeplearning.ai. Any errors or misrepresentations are almost my own.

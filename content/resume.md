@@ -55,8 +55,8 @@ showtoc: false
 - 3 Certificates in: AI for Medical Diagnosis, AI for Medical Prognosis, AI for Medical Treatment
 
 ## Technical Background
-- Coding Languages: Python (numpy, PyTorch, Sklearn, TensorFlow), MATLAB, C++
-- Skills: Scientific Computing, High Performance Computer Architecture, Computational Data Analysis, Machine Learning, Deep Neural Network, Numerical Analysis, Dynamical System.
+- Coding Languages: Python (numpy, PyTorch, Scikit-learn, TensorFlow, pandas, keras), SQL, C/C++, MATLAB.
+- Skills: Machine Learning, Deep Neural Network, Computer Vision, Statistics, Scientific Computing, Parallel Computing, Numerical Analysis, Dynamical System.
 
 ## Past Experiences
 {{< collapse summary="**DeHeng Law Office**, *Senior Associate* 2019.03 - 2020.11" >}}

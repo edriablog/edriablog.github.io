@@ -5,11 +5,19 @@ showtoc: false
 
 ## Education
 
-- **University of Washington**, *Master in Applied and Computational Mathematics* GPA 3.9/4.0   (2022.09 - 2024.03)
+- **University of Washington**, *Master of Science in Applied and Computational Mathematics* GPA 3.9/4.0   (2022.09 - 2024.03)
 - **Arizona State University College of Law**, *Juris Doctor*   (2013.08 - 2016.05)
-- **University of Wisconsin-Madison**, *B.S. in Mathematics, Economics, and Psychology*     (2009.08 - 2013.05)
+- **University of Wisconsin-Madison**, *Bachelor of Science in Mathematics, Economics, and Psychology*     (2009.08 - 2013.05)
 
 ## Technical Projects
+**Current Project 1: RSNA 2024 Lumbar Spine Degenerative Classification**
+- Created a machine learning model to aid detection and classification of degenerative spine conditions using lumbar spine MR images to assist radiologist’s performance in spine disease diagnosis.
+- Stay tuned!
+
+**Current Project 2: Leash Biosciences - New Medicines Prediction With BELKA**
+- Developed a machine learning model to predict the binding affinity of molecules to protein targets.
+- Stay tuned!
+
 **High-Performance Image Processing Application on Manycore Architecture**
 - Implemented Gaussian Blur algorithm for host and device code on Hammerblade Manycore Architecture (128 cores with L1/L2 cache and sharable DRAM, 2D mesh/ruche and wormhole NoC);
 - Optimized the algorithm using Memory Level Parallelism and cache locality, achieving 69.4% total core utilization in Verilator simulation with 10x speedup.
@@ -42,6 +50,9 @@ showtoc: false
 
 **Coursera Deep Learning Specialization**
 - 5 Certificates in: Neural Networks and Deep Learning; Hyperparameters tuning, Regularization and Optimization; Structuring Machine Learning Project; Convolutional Neural Networks; Natural Language Processing
+
+**Coursera AI for Medicine**
+- 3 Certificates in: AI for Medical Diagnosis, AI for Medical Prognosis, AI for Medical Treatment
 
 ## Technical Background
 - Coding Languages: Python (numpy, PyTorch, Sklearn, TensorFlow), MATLAB, C++

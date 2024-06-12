@@ -1,9 +1,9 @@
 +++
-title = 'Notes on AI for Medical Diagnosis'
+title = 'Notes on AI for Medical Diagnosis - AI for Medicine Specialization Series I'
 date = 2024-05-27T16:37:31-07:00
 draft = false
 +++
->This note is generated for my learning of Course AI for Medical Diagnosis by deeplearning.ai. Any errors or misrepresentations are almost my own.
+>This note is generated for my learning of **AI for Medical Diagnosis** by deeplearning.ai. Any errors or misrepresentations are almost my own.
 
 ## Medical Imaging Application Examples
 ### Dermatology

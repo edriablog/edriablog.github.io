@@ -1,10 +1,10 @@
 +++
-title = 'Notes on AI for Medical Prognosis'
+title = 'Notes on AI for Medical Prognosis - AI for Medicine Specialization Series II'
 date = 2024-06-06T16:37:31-07:00
 draft = false
 +++
 
->This note is generated for my learning of Course AI for Medical Prognosis by deeplearning.ai. Any errors or misrepresentations are almost my own.
+>This note is generated for my learning of **AI for Medical Prognosis** by deeplearning.ai. Any errors or misrepresentations are almost my own.
 
 ## Risk of Getting Disease "Medical Prognosis"
 - Prognosis: predicting risk of a future event.

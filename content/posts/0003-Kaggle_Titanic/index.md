@@ -1,5 +1,5 @@
 +++
-title = 'Kaggle Titanic Competition Notebook'
+title = 'Titanic Competition Notebook'
 date = 2024-05-14T16:50:31-07:00
 draft = false
 +++

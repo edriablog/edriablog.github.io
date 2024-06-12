@@ -1,5 +1,5 @@
 +++
-title = 'Kaggle Flood Prediction Regression Competition'
+title = 'Flood Prediction Regression Competition'
 date = 2024-05-16T16:37:31-07:00
 draft = false
 +++
